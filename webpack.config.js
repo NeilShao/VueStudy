@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    entry: './src/VirtulDom/index.js',
+    entry: './src/Reactive/index.js',
     output: {
         filename: 'bundle.js'
     },
