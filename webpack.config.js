@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    entry: './src/Reactive/index.js',
+    entry: './src/AST/index.js',
     output: {
         filename: 'bundle.js'
     },
